@@ -1,0 +1,16 @@
+{
+  "name": "url-checker",
+  "version": "1.0.0",
+  "description": "For checking status codes of urls given the sitemap passed",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Gustavo Citati",
+  "license": "ISC",
+  "dependencies": {
+    "nodemailer": "^6.4.5",
+    "sitemap-urls": "^3.0.0"
+  }
+}
